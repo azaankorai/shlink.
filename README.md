@@ -1,0 +1,2 @@
+# shlink.
+shlink configurations
